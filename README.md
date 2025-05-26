@@ -115,7 +115,40 @@ Based on ratings, delivery time, and order volume:
 | Sushi of Gari 46        | 3.0    | 48                      |
 
 ---
+Visualizations
 
+Here are some key visualizations from the project:
+### 1. Distribution of total order over time
+![Distribution of total order over time](images/Distribution of total order over time.png)
+
+*Description*: The plot shows the distribution of total order time.
+
+### 2. Total order time by cuisine type
+![total order time by cuisine type](images/total order time by cuisine type.png)
+
+*Description*: The plot shows the total order time by cuisine type.
+
+### 3. Cuisine Sold on Weekends vs Weekdays
+![Cuisine Sold on Weekends vs Weekdays](images/Cuisine Sold on Weekends vs Weekdays.png)
+
+*Description*: The plot shows the total order time by cuisine type.
+
+### 4. Orders based on day of the week
+![Orders based on day of the week](images/day_of_the_week.png)
+
+*Description*: The plot shows the orders based on day of the week.
+
+### 5. Average rating by cuisine type
+![Average rating by cuisine type](Average rating by cuisine type.png)
+
+*Description*: The plot shows the Average rating by cuisine type.
+
+### 6. Cuisine type distribution
+![Cuisine type distribution](Cuisine type distribution.png)
+
+*Description*: The plot shows the Cuisine type distribution.
+
+--- 
 ## Key Takeaways
 
 - **American and Japanese cuisines** are the most popular but vary in rating and efficiency.
@@ -133,5 +166,3 @@ Based on ratings, delivery time, and order volume:
 - Expand to include **time-of-day analysis**, **tip amounts**, or **repeat customers**.
 
 ---
-
-
