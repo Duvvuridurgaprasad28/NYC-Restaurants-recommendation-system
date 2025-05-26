@@ -119,17 +119,17 @@ Visualizations
 
 Here are some key visualizations from the project:
 ### 1. Distribution of total order over time
-![Distribution of total order over time](images/Distribution of total order over time.png)
+![Distribution of total order over time](images/Distribution_of_total_order_over_time.png)
 
 *Description*: The plot shows the distribution of total order time.
 
 ### 2. Total order time by cuisine type
-![total order time by cuisine type](images/total order time by cuisine type.png)
+![total order time by cuisine type](images/total_order_time_by_cuisine_type.png)
 
 *Description*: The plot shows the total order time by cuisine type.
 
 ### 3. Cuisine Sold on Weekends vs Weekdays
-![Cuisine Sold on Weekends vs Weekdays](images/Cuisine Sold on Weekends vs Weekdays.png)
+![Cuisine Sold on Weekends vs Weekdays](images/Cuisine_Sold_on_Weekends_vs_Weekdays.png)
 
 *Description*: The plot shows the total order time by cuisine type.
 
@@ -139,12 +139,12 @@ Here are some key visualizations from the project:
 *Description*: The plot shows the orders based on day of the week.
 
 ### 5. Average rating by cuisine type
-![Average rating by cuisine type](Average rating by cuisine type.png)
+![Average rating by cuisine type](Average_rating_by_cuisine_type.png)
 
 *Description*: The plot shows the Average rating by cuisine type.
 
 ### 6. Cuisine type distribution
-![Cuisine type distribution](Cuisine type distribution.png)
+![Cuisine type distribution](Cuisine_type_distribution.png)
 
 *Description*: The plot shows the Cuisine type distribution.
 
