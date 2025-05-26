@@ -139,12 +139,12 @@ Here are some key visualizations from the project:
 *Description*: The plot shows the orders based on day of the week.
 
 ### 5. Average rating by cuisine type
-![Average rating by cuisine type](Average_rating_by_cuisine_type.png)
+![Average rating by cuisine type](images/Average_rating_by_cuisine_type.png)
 
 *Description*: The plot shows the Average rating by cuisine type.
 
 ### 6. Cuisine type distribution
-![Cuisine type distribution](Cuisine_type_distribution.png)
+![Cuisine type distribution](images/Cuisine_type_distribution.png)
 
 *Description*: The plot shows the Cuisine type distribution.
 
