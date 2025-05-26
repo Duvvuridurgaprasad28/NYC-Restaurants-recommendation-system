@@ -115,7 +115,7 @@ Based on ratings, delivery time, and order volume:
 | Sushi of Gari 46        | 3.0    | 48                      |
 
 ---
-Visualizations
+### Visualizations
 
 Here are some key visualizations from the project:
 ### 1. Distribution of total order over time
